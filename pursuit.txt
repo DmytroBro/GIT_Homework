@@ -6,3 +6,6 @@ Winter is letting go
 we will add
 some rows
 to trigger the build
+
+and ones more
+with credentials
